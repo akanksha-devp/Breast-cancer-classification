@@ -1,3 +1,3 @@
 # Breast-cancer-classification
-Using MultinomialNB model to classify if a tumour is benign or malignant.
+Using Support Vector Classifier to classify a tumour into benign or malignant category.
 The Jupyter notebook has markdowns explaining each line of code.
